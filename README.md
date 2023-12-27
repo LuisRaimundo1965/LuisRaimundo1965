@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Luis Raimundo
+- 👀 I’m interested in sound analysis
+- 🌱 I’m currently learning Python coding
